@@ -2,7 +2,9 @@
 
 
 
-- 🌱 I’m currently learning Java Bootcamp at SDA
+- 🎓 Full Stack Developer
+- ✈️ I love traveling.
+- 🌱 I'm currently learning JAVA at the SDA Albania BootCamp. 📚🚀
 
 
 
