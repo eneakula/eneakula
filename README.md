@@ -3,7 +3,7 @@
 
 
 - 🎓 Software Developer
-- ✈️ I love traveling.
+- ✈️ I love traveling 
 - 🌱 Graduated in Java Full Stack Development from SDA Albania, where I acquired expertise in:
       Java Programming: From fundamentals to advanced concepts
       Software Engineering: Design patterns, testing, and best practices
