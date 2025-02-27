@@ -4,12 +4,12 @@
 
 - 🎓 Software Developer
 - ✈️ I love traveling 
-- 🌱 Graduated in Java Full Stack Development from SDA Albania, where I acquired expertise in:
-      Java Programming: From fundamentals to advanced concepts
-      Software Engineering: Design patterns, testing, and best practices
-      Databases: SQL, JDBC, Hibernate
-      Full-Stack Development: HTML, CSS, JavaScript, Angular, Spring Framework
-      Hands-on Projects: Practical and final projects, applying knowledge to real-world scenarios
+- 🌱 Graduated in Java Full Stack Development from SDA Albania, completing 322 hours of intensive training, covering:
+     Java Programming: From fundamentals to advanced concepts
+     Software Engineering: Design patterns, testing, and best practices
+     Databases: SQL, JDBC, Hibernate
+     Full-Stack Development: HTML, CSS, JavaScript, Angular, Spring Framework
+     Hands-on Projects: Practical and final projects, applying knowledge to real-world scenarios
 
 
 
