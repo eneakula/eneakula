@@ -2,9 +2,14 @@
 
 
 
-- 🎓 Full Stack Developer
+- 🎓 Software Developer
 - ✈️ I love traveling.
-- 🌱 I'm currently learning JAVA at the SDA Albania BootCamp. 📚🚀
+- 🌱 Graduated in Java Full Stack Development from SDA Albania, where I acquired expertise in:
+      Java Programming: From fundamentals to advanced concepts
+      Software Engineering: Design patterns, testing, and best practices
+      Databases: SQL, JDBC, Hibernate
+      Full-Stack Development: HTML, CSS, JavaScript, Angular, Spring Framework
+      Hands-on Projects: Practical and final projects, applying knowledge to real-world scenarios
 
 
 
