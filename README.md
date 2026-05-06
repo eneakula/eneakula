@@ -2,7 +2,7 @@
 
 
 
-- 🎓 Software Developer
+- 🎓 Software Developer und Finance Specialist
 - ✈️ I love traveling 
 - 🌱 Graduated in Java Full Stack Development from SDA Albania, completing 322 hours of intensive training, covering:
      Java Programming: From fundamentals to advanced concepts
