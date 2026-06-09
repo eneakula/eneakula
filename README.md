@@ -1,29 +1,67 @@
 <h1>Enea Kula</h1>
 
+- 💻 Software Developer | Data Analyst | Finance Specialist
+- 🎓 Bachelor in Finance & Accounting
+- 🎓 Master of Science in Banking & Finance
+- 🇩🇪 Both academic degrees officially recognized in Germany by ZAB
+- ☕ Graduated in Java Full Stack Development (SDA Albania)
+- 📊 Currently attending DATEV Buchführung Weiterbildung (Europäischer Hochschulverbund – EHV)
+- 📈 Currently attending Data Analyst Weiterbildung (FernUniversität in Hagen)
+- 🚀 Passionate about Software Development, Data Analytics, Finance and Business Intelligence
 
+## 🎓 Education
 
-- 🎓 Software Developer & Finance Specialist
-- ✈️ I love traveling 
-- 🌱 Graduated in Java Full Stack Development from SDA Albania, completing 322 hours of intensive training, covering:
-     Java Programming: From fundamentals to advanced concepts
-     Software Engineering: Design patterns, testing, and best practices
-     Databases: SQL, JDBC, Hibernate
-     Full-Stack Development: HTML, CSS, JavaScript, Angular, Spring Framework
-     Hands-on Projects: Practical and final projects, applying knowledge to real-world scenarios
+### Master of Science in Banking & Finance
+Aleksandër Moisiu University, Durrës, Albania
 
+### Bachelor in Finance & Accounting
+Aleksandër Moisiu University, Durrës, Albania
 
+### Recognition in Germany
+Officially recognized by ZAB (Zentralstelle für ausländisches Bildungswesen)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enea-kula/) 
+## 📚 Professional Development
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eneakula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eneakula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eneakula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Data Analyst Weiterbildung
+FernUniversität in Hagen (CeW), Germany
 
----
-[![](https://visitcount.itsvg.in/api?id=eneakula&icon=0&color=0)](https://visitcount.itsvg.in)
+**Focus Areas:**
+- SQL
+- Python
+- XML
+- Relational Databases
+- Data Modeling
+- Data Analysis & Reporting
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### DATEV Buchführung Weiterbildung
+Europäischer Hochschulverbund (EHV), Hamburg, Germany
+
+**Focus Areas:**
+- DATEV Kanzlei-Rechnungswesen
+- Debitoren- und Kreditorenbuchhaltung
+- Umsatzsteuervoranmeldung (UStVA)
+- Kontenklärung
+- Bank- und Kassenbuchungen
+- Monats- und Jahresabschlussprozesse
+
+## 💻 Technical Skills
+
+- Java
+- Spring Framework
+- Hibernate
+- JDBC
+- SQL
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+- DATEV Kanzlei-Rechnungswesen
+- Data Analysis
+- Microsoft Excel
+- Reporting
+
+## 🌍 Languages
+
+- Albanian (Native)
+- German (B2, currently progressing towards C1)
+- English (B1)
