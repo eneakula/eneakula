@@ -5,8 +5,8 @@
 - 🎓 Master of Science in Banking & Finance
 - 🇩🇪 Both academic degrees officially recognized in Germany by ZAB
 - ☕ Graduated in Java Full Stack Development (SDA Albania)
-- 📊 Currently attending DATEV Buchführung Weiterbildung (Europäischer Hochschulverbund – EHV, Hamburg)
-- 📈 Currently attending Data Analyst Weiterbildung (FernUniversität in Hagen)
+- 📊 Currently attending DATEV Buchführung Weiterbildung (Europäischer Hochschulverbund – EHV, Hamburg, Deutschland)
+- 📈 Currently attending Data Analyst Weiterbildung (FernUniversität in Hagen, Deutschland)
 - 🚀 Passionate about Software Development, Data Analytics, Finance and Business Intelligence
 
 ## 🎓 Education
